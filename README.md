@@ -1,4 +1,4 @@
-# LED_MATRIX_SNAKE_RPi
+# LED_matrix_snake_RPi
 
 SNAKE GAME EXTRA RETRO STYLE!
 
